@@ -19,6 +19,7 @@ namespace ListServiceStat.Repository
                     new Building { building_id = 3, description = "3BHK", address = "djvs", cost = 100 },
 
                     new Building { building_id = 5, description = "check", address = "check", cost = 100 },
+                     new Building { building_id = 6, description = "checklast", address = "checklast", cost = 100 },
             };
 
         }
